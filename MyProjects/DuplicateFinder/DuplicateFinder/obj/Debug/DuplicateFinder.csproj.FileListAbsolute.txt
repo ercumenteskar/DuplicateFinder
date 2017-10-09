@@ -1,0 +1,9 @@
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\bin\Debug\DuplicateFinder.exe.config
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\bin\Debug\DuplicateFinder.exe
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\bin\Debug\DuplicateFinder.pdb
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\obj\Debug\DuplicateFinder.csprojResolveAssemblyReference.cache
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\obj\Debug\DuplicateFinder.Form1.resources
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\obj\Debug\DuplicateFinder.Properties.Resources.resources
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\obj\Debug\DuplicateFinder.csproj.GenerateResource.Cache
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\obj\Debug\DuplicateFinder.exe
+C:\VSProjects\MyProjects\DuplicateFinder\DuplicateFinder\obj\Debug\DuplicateFinder.pdb
